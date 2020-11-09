@@ -1,2 +1,2 @@
-# SWEA_C-
+# SWEA_Study
 SWEA Coding Test Self Study
